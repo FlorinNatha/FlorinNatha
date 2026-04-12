@@ -101,3 +101,21 @@
     </tr>
 </table>
 
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=florinnatha&theme=react-dark" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=florinnatha&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
