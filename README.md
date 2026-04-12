@@ -72,6 +72,15 @@
 </p>
 
 
+# <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/> GitHub Stats
+
+<p align="center"> 
+  <a href="https://github.com/FlorinNatha">
+    <img src="https://github-profile-trophy.vercel.app/?username=FlorinNatha&theme=radical&no-frame=true&row=1&column=6" />
+  </a> 
+</p>
+
+
 
 
 <table align="center" margin="2px">
