@@ -39,21 +39,18 @@
 
 
 
-
-#  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Stats 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=FlorinNatha&theme=dark" alt="FlorinNatha" />
-    </a> 
-</p>
-
-
 # <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/> GitHub Stats
 
 <p align="center"> 
   <a href="https://github.com/FlorinNatha">
     <img src="https://github-profile-trophy.vercel.app/?username=FlorinNatha&theme=radical&no-frame=true&row=1&column=6" />
   </a> 
+</p>
+
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy-o21prt7yh-ryo-ma-s-team.vercel.app/?username=FlorinNatha&theme=dark" alt="FlorinNatha" />
+    </a> 
 </p>
 
 
