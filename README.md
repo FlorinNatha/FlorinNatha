@@ -13,54 +13,30 @@
 
 - 📫 How to reach me **nathashaflorin2001@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nathasha florin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathasha florin" height="30" width="40" /></a>
-<a href="https://fb.com/nathasha florin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathasha florin" height="30" width="40" /></a>
-<a href="https://instagram.com/nathashaaflorin146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathashaaflorin146" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nathasha-florin-7413b6268/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
+  </a>
+  <a href="https://fb.com/nathasha-florin" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="40"/>
+  </a>
+  <a href="https://instagram.com/nathashaaflorin146">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" />
+  </a>
+  <a href="mailto:nathashaflorin2001@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"     
-    height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"   
-   height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" 
-   height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-    </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-    </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-    </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-    </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-    </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-    </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-    </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
-    </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" class="card">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,py,php,html,css,mysql,mongodb,sqlite,prisma,nodejs,nextjs,express,bootstrap,redux,figma,git,github,vscode,visualstudio,docker,jenkins,linux,ubuntu&perline=16" />
+  </a>
 </p>
+
 
 
 
