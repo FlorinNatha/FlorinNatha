@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm J.W.Nathasha Florin Silva</h1>
 <h3 align="center">A Passionate Software Engineering student at the University of Sri Jayewardenepura (USJ), Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florinnatha&label=Profile%20views&color=0e75b6&style=flat" alt="florinnatha" /> </p>
 
@@ -97,6 +97,9 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=florinnatha&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FlorinNatha&theme=onedark&row=1&column=7" />
 </p>
 
 ---
